@@ -2,9 +2,9 @@
 # encoding: utf-8
 
 schema:
-  name: "西夏文【Poly四角】"
+  name: "西夏文𗼇【Poly四角】"
   schema_id: tangut_poly4
-  version: "2016.10.06"
+  version: "2017.01.02"
   author:
     - polyhedron	<biopolyhedron@gmail.com> 
     - Lely	<fourseasons4ji@gmail.com>
@@ -74,5 +74,5 @@ punctuator:
   import_preset: default
 
 style: 
-  font_face: "Mojikyo Tangut"
+  font_face: "Tangut Yinchuan"
   font_point: 18
