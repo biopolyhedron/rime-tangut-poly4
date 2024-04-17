@@ -1,0 +1,2 @@
+TangutYinchuan.ttf 爲原版西夏文銀川字體，15.0版
+TangutYinchuan15-TangutOnly.ttf 僅保留該銀川字體中的西夏文部分，去掉了拉丁字母、漢字等字符，適合用作ColorOS的替換字體（具體需要MT管理器（可能還需要Shizuku授權），可在网絡上尋找視頻敎程），該字體中未定義的字符即可被fallback爲系統默認字體。
